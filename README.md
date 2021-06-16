@@ -1,2 +1,9 @@
+[Image_0]: ./Images/Figure_0.png
+![alt text][Image_0]
+
+
 # Topological Change Point Detection
-Change point detection is an important topic in time-series analysis as it covers a broad range of applications detecting changes in dynamic systems, financial time series and complex biological signals, for example. Discovering the underlying structure of time series is useful for predicting the abrupt and significant change in the data generating process of a signal source. Typically statistical analysis is used to identify when the probability distribution of a stochastic process changes the time-series characteristics. A novel approach utilizes the particularly powerful method of topological data analysis to extract information about the underlying structural changes of the time series data.
+## Discovering Tipping Points in Time Series Data
+Change point detection is an important topic in time-series analysis covering a broad range of applications where it is required to detect significant divergence from a nominal behavior in systems characterized by their measurable time-series. Several real-world systems include solar flare clusters, firefly flash patterns, neurological spike trains, climate data and financial indices, to name a few.
+
+See the full article here: https://medium.com/@silent-code 
