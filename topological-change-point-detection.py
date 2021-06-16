@@ -2,6 +2,7 @@
 import numpy as np
 import networkx as nx
 from kuramoto import Kuramoto
+
 # Network generation
 n_nodes = 50 
 p = 1 # p=1 -> all-to-all connectivity
